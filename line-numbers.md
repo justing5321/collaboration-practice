@@ -6,7 +6,11 @@
 #### 6
 #### 7 garcia
 #### 8
-#### 9 Github is really good 
+
+#### 9 Github is awesome
+
+
+
 #### 10
 #### 11 Another merge conflict 
 #### 12
